@@ -1,4 +1,4 @@
 # NME2_zapoctak
-An assignment for a numerical methods class (NME2) at FNSPE CVUT.
+An assignment for a numerical methods class (NME2) at FNSPE CTU.
 
 Normally I'd use matplotlib to show the resulting plot, but the use of any libraries was strictly prohibited.
